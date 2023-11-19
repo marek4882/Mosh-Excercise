@@ -21,6 +21,11 @@ ul {
 li {
   padding: 1rem;
 }
+li:hover,
+.active {
+  background: #221a2e;
+  color: #fff;
+}
 a {
   margin-left: 1rem;
 }
